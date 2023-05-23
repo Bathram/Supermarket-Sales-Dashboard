@@ -17,7 +17,9 @@ COMMON PAYMENT MODE: The ability of the supermarket to ascertain the favorable p
 PRODUCT WITH THE HIGHEST PROFIT: The ability to know the products that give more profit in your business is sacrosanct. This was achieved in this supermarket through the bar chart.
 
 PRODUCT WITH HIGHEST EXPENSES: Of a truth, some products affect businesses negatively maybe due to expenses attached to such product. This was made known with use of line graph.
+
 Additionally, Slicers and Timeline were introduced to automatically show us the activities of business happening simultaneously across board.
+
 Finally, this dashboard was created to give insight to the management of this supermarket. To enable them make  decisions  with fact.
 
 
